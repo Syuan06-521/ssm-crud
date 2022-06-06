@@ -1,0 +1,11 @@
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/bean/Msg.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/dao/DepartmentMapper.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/bean/EmployeeExample.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/service/DepartmentService.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/controller/EmployeeController.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/bean/DepartmentExample.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/bean/Employee.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/service/EmployeeService.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/dao/EmployeeMapper.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/controller/DepartmentController.java
+/Users/mastersun/javaProjects/ssm-crud/src/main/java/com/atguigu/crud/bean/Department.java
